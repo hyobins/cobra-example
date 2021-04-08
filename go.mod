@@ -1,4 +1,4 @@
-module github.com/golang
+module github.com/hyobins/cobra-example
 
 go 1.15
 
